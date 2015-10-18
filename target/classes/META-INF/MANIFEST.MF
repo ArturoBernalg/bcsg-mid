@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: e-aobl
+Class-Path: lib/junit-4.12.jar lib/hamcrest-core-1.3.jar lib/jsefa-0.9
+ .3.RELEASE.jar lib/xmlpull-1.1.2.1.jar
+Build-Jdk: 1.8.0_60
+Created-By: Maven Integration for Eclipse
+Main-Class: com.Bcsg
+
